@@ -9,3 +9,7 @@ Source codes from my "OpenGL in python" youtube tutorials
 ## Requirements
 
     pip install -r requirements.txt
+
+## Tested Environment
+* windows10,x64
+* python_v3.8.8
